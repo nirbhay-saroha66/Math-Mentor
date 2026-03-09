@@ -1,9 +1,8 @@
-from groq import Client
-import json
-import os
-
 import streamlit as st
-client = Client(api_key=st.secrets["GROQ_API_KEY"])
+from groq import Groq
+import json
+
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 def parse_problem(problem_text):
     prompt = f"""
