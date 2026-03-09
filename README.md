@@ -261,7 +261,19 @@ Observations:
 
 ---
 
+# Deployment
 
+The application is deployed using:
+
+* Streamlit Cloud
+
+Deployed Link:
+
+```
+https://math-mentor-jpckritiw4ob79mc73gkzc.streamlit.app
+```
+
+---
 
 # Demo Video
 
