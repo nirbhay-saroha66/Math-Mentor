@@ -231,17 +231,6 @@ This improves reliability for complex problems.
 
 ---
 
-### Memory Reuse
-
-If the same question is asked again:
-
-```
-Solve x^2 - 5x + 6 = 0
-```
-
-The system retrieves the stored answer from memory.
-
----
 
 # Evaluation Summary
 
@@ -253,11 +242,6 @@ The system was evaluated on multiple query types.
 | Image Problems  | 88%      |
 | Audio Questions | 85%      |
 
-Observations:
-
-* OCR errors can slightly affect image input performance
-* Memory reuse significantly reduces response time
-* Human verification improves correctness
 
 ---
 
@@ -286,20 +270,9 @@ A short demo video showing:
 
 Demo Link: https://drive.google.com/file/d/1qL1I4N6aLI3Ogm19o3R6YnYP1FvhfISM/view?usp=sharing
 
-```
-https://math-mentor-jpckritiw4ob79mc73gkzc.streamlit.app
-```
 
 ---
 
-# Future Improvements
-
-* Better OCR accuracy
-* Advanced math tool integration
-* Expanded knowledge base
-* Faster response times
-
----
 
 # License
 
