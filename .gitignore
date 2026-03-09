@@ -1,0 +1,23 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+memory.db
+
+# Vector database
+chroma_db/
+
+# Temp files
+temp_audio.wav
+
+# System
+.DS_Store
