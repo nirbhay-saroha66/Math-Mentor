@@ -287,10 +287,10 @@ A short demo video showing:
 * Human-in-the-loop validation
 * Memory reuse
 
-Demo Link:
+Demo Link: https://drive.google.com/file/d/1qL1I4N6aLI3Ogm19o3R6YnYP1FvhfISM/view?usp=sharing
 
 ```
-Add your demo video link here
+https://math-mentor-jpckritiw4ob79mc73gkzc.streamlit.app
 ```
 
 ---
