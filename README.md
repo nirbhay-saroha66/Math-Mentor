@@ -261,22 +261,7 @@ Observations:
 
 ---
 
-# Deployment
 
-The application can be deployed using:
-
-* Streamlit Cloud
-* Docker
-* Local server
-
-Example Docker build:
-
-```
-docker build -t ai-problem-solver .
-docker run -p 8501:8501 ai-problem-solver
-```
-
----
 
 # Demo Video
 
